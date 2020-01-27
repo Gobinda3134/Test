@@ -1,0 +1,4 @@
+#Mon Jan 13 10:07:02 EST 2020
+base.0=/home/dell/Desktop/9635717_BiswasGhimire_E_Softwarica_Android/stw300cem-final-project-ghimirebiswas/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex

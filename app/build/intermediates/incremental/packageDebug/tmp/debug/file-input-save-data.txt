@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon Jan 13 10:07:03 EST 2020
+0.baseType=DIRECTORY
+0.base=/home/dell/Desktop/9635717_BiswasGhimire_E_Softwarica_Android/stw300cem-final-project-ghimirebiswas/app/build/intermediates/dex/debug/mergeDexDebug/out
+0.path=classes.dex
+0.set=DEX
+count=1
